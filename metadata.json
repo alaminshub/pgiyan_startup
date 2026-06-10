@@ -1,0 +1,6 @@
+{
+  "name": "PGIYAN Startup AI",
+  "description": "The ultimate AI Personal Business Builder and Entrepreneur Operating System. Launch, manage, grow, and scale your enterprise with 13 specialized modules and 4 premium AI modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
